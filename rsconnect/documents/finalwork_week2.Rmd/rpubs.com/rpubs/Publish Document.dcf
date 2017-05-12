@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/274764/bddcc9273d0e4e00a6c36c8832b356a9
+bundleId: https://api.rpubs.com/api/v1/document/274764/bddcc9273d0e4e00a6c36c8832b356a9
+url: http://rpubs.com/Adecarlini/274764
+when: 1494341343.33629
